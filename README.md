@@ -7,21 +7,20 @@ The projects explore applications of machine learning in **natural language proc
 ---
 
 ## Repository Structure
-
 applied-machine-learning-projects
 │
 ├── task1-spam-classification
-│   ├── spam_classification.ipynb
-│   ├── spam_results.csv
-│   └── README.md
+│ ├── spam_classification.ipynb
+│ ├── spam_results.csv
+│ └── README.md
 │
 ├── task2-face-keypoint-detection
-│   ├── face_keypoint_detection.ipynb
-│   ├── face_results.csv
-│   └── README.md
+│ ├── face_keypoint_detection.ipynb
+│ ├── face_results.csv
+│ └── README.md
 │
 └── report
-    └── AML-report.pdf
+└── AML-report.pdf
 
 ---
 
@@ -80,4 +79,5 @@ pip install numpy pandas scikit-learn matplotlib torch sentence-transformers
 ## Report
 
 The full experimental report is available in:
+
 report/AML-report.pdf

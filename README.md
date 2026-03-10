@@ -21,7 +21,6 @@ applied-machine-learning-projects
 │
 └── report
 └── AML-report.pdf
-
 ---
 
 ## Task 1 – Spam Email Classification
@@ -81,3 +80,4 @@ pip install numpy pandas scikit-learn matplotlib torch sentence-transformers
 The full experimental report is available in:
 
 report/AML-report.pdf
+

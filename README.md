@@ -7,21 +7,23 @@ The projects explore applications of machine learning in **natural language proc
 ---
 
 ## Repository Structure
+
+```
 applied-machine-learning-projects
 │
 ├── task1-spam-classification
-│ ├── spam_classification.ipynb
-│ ├── spam_results.csv
-│ └── README.md
+│   ├── spam_classification.ipynb
+│   ├── spam_results.csv
+│   └── README.md
 │
 ├── task2-face-keypoint-detection
-│ ├── face_keypoint_detection.ipynb
-│ ├── face_results.csv
-│ └── README.md
+│   ├── face_keypoint_detection.ipynb
+│   ├── face_results.csv
+│   └── README.md
 │
 └── report
-└── AML-report.pdf
----
+    └── AML-report.pdf
+```
 
 ## Task 1 – Spam Email Classification
 
@@ -36,7 +38,7 @@ Techniques used:
 
 More details can be found in:
 
-task1-spam-classification/README.md
+`task1-spam-classification/README.md`
 
 ---
 
@@ -53,7 +55,7 @@ Techniques used:
 
 More details can be found in:
 
-task2-face-keypoint-detection/README.md
+`task2-face-keypoint-detection/README.md`
 
 ---
 
@@ -71,7 +73,10 @@ Main libraries used:
 - sentence-transformers
 
 Install dependencies with:
+
+```
 pip install numpy pandas scikit-learn matplotlib torch sentence-transformers
+```
 
 ---
 
@@ -80,4 +85,5 @@ pip install numpy pandas scikit-learn matplotlib torch sentence-transformers
 The full experimental report is available in:
 
 report/AML-report.pdf
+
 
